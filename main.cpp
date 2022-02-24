@@ -5,6 +5,7 @@
 #include <QPair>
 #include <QMessageBox>
 #include "readsps.h"
+#include <QString>
 
 
 
